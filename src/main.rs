@@ -2,8 +2,10 @@
 //
 // Still best one around yet!
 
+/// The main function runs when the program starts
 fn main() {
     print("Hello, world!");
+    print("Goodbye, cruel world!")
 }
 
 // a function that prints a message
